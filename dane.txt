@@ -1,0 +1,12 @@
+Dzien	Godzina	Imie	Nazwisko	Poziom_zaawansowania
+
+6	16	Aleksandra	Rykowska	['3']
+3	7	Aleksandra	Rykowska	[]
+2	6	Karolina	Halabis	['1']
+3	12	olga	kwoczak	[]
+7	12	Adam	Sliwinski	[]
+7	7	Dawid	K	['2']
+7	19	Magda	Kustyniuk	['1']
+2	7	Adam	Sliwinski	['3']
+2	11	Adam	Saoghsft	[]
+5	18	agata	dupa	[]

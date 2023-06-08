@@ -1,0 +1,7 @@
+2	11			[]
+1	11	Adam	Proba1	[]
+2	13	Adam	Proba2	[]
+1	11	A	D	[]
+2	10	a	s	[]
+1	12	a	s	[]
+1	10	Ad	Sli	['1']

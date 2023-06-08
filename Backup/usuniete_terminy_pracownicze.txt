@@ -1,0 +1,84 @@
+
+Nowa instancja programu. Sygnatura instancji: 2022-04-22 12:47:00.957485
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
+
+Nowa instancja programu. Sygnatura instancji: 2022-04-22 12:51:56.173791
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
+
+Nowa instancja programu. Sygnatura instancji: 2022-04-22 12:53:15.178160
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
+
+Nowa instancja programu. Sygnatura instancji: 2022-04-22 12:54:35.522013
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
+
+Nowa instancja programu. Sygnatura instancji: 2022-04-22 12:54:51.606597
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
+
+Nowa instancja programu. Sygnatura instancji: 2022-04-22 12:55:33.566027
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
+
+Nowa instancja programu. Sygnatura instancji: 2022-04-22 12:55:46.656570
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
+
+Nowa instancja programu. Sygnatura instancji: 2022-04-22 12:58:02.683147
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
+
+Nowa instancja programu. Sygnatura instancji: 2022-04-22 12:59:28.819180
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
+
+Nowa instancja programu. Sygnatura instancji: 2022-04-22 13:08:13.094624
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
+
+Nowa instancja programu. Sygnatura instancji: 2022-04-22 13:09:34.497975
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
+
+Nowa instancja programu. Sygnatura instancji: 2022-04-22 13:14:52.517153
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
+
+Nowa instancja programu. Sygnatura instancji: 2022-04-22 14:00:48.030628
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
+
+Nowa instancja programu. Sygnatura instancji: 2022-04-22 14:04:23.532251
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
+
+Nowa instancja programu. Sygnatura instancji: 2022-04-22 14:11:13.964539
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
+
+Nowa instancja programu. Sygnatura instancji: 2022-04-22 14:19:32.316283
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
+
+Nowa instancja programu. Sygnatura instancji: 2022-04-22 14:25:54.597775
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
+
+Nowa instancja programu. Sygnatura instancji: 2022-04-22 14:40:48.714622
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
+
+Nowa instancja programu. Sygnatura instancji: 2022-04-22 14:46:51.306649
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
+
+Nowa instancja programu. Sygnatura instancji: 2022-04-22 14:51:11.430339
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
+
+Nowa instancja programu. Sygnatura instancji: 2022-04-22 14:51:36.976263
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	

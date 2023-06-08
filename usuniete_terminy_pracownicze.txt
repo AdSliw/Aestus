@@ -1,0 +1,61 @@
+- - - - - - - - - - - - Nowy wydruk danych - - - - - - - - - - - - - - -
+2022-06-13 23:17:57.459882	1:	[['1'], ['2', '3'], ['4', '5']]
+2022-06-13 23:17:57.459882	2:	[['  '], [' ', ' '], [' ', '  ']]
+2022-06-13 23:17:57.459882	3:	[['1'], ['2', '3'], ['4', '5']]
+2022-06-13 23:17:57.459882	4:	[['1'], ['2', '3'], ['4', '5']]
+Nowa instancja programu. Sygnatura instancji: 2022-06-28 13:31:31.266694
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
+
+Nowa instancja programu. Sygnatura instancji: 2022-06-28 13:34:17.104785
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
+
+Nowa instancja programu. Sygnatura instancji: 2022-06-28 13:50:57.441232
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
+
+- - - - - - - - - - - - Nowy wydruk danych - - - - - - - - - - - - - - -
+2022-06-29 16:50:44.784613	1:	[['7'], ['lipiec', '17'], ['7:00', '15:00']]
+Nowa instancja programu. Sygnatura instancji: 2022-06-30 15:22:19.916631
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
+
+- - - - - - - - - - - - Nowy wydruk danych - - - - - - - - - - - - - - -
+2022-07-01 10:44:17.642729	1:	[['3'], ['luty', '22'], ['8:00', '16:00']]
+2022-07-01 10:44:17.642729	2:	[['7'], ['lipiec', '17'], ['7:00', '15:00']]
+Nowa instancja programu. Sygnatura instancji: 2022-07-01 12:16:04.248557
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
+
+Nowa instancja programu. Sygnatura instancji: 2022-07-01 14:59:33.000778
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
+
+Nowa instancja programu. Sygnatura instancji: 2022-07-08 15:59:21.732422
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
+
+Nowa instancja programu. Sygnatura instancji: 2022-12-14 22:49:23.928129
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
+
+Nowa instancja programu. Sygnatura instancji: 2022-12-14 22:49:36.155798
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
+
+Nowa instancja programu. Sygnatura instancji: 2022-12-14 22:50:30.315083
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
+
+Nowa instancja programu. Sygnatura instancji: 2022-12-14 22:50:58.563761
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
+
+Nowa instancja programu. Sygnatura instancji: 2022-12-15 00:05:15.043125
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
+
+Nowa instancja programu. Sygnatura instancji: 2022-12-15 00:06:08.549306
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Czas wykonania operacji:	ID:	[[Nr: ], [M: , D: ], [S: , K: ]]	
